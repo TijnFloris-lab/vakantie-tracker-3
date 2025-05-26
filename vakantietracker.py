@@ -33,4 +33,5 @@ st.session_state.uitgaven = records
 
 # Sidebar instellingen
 with st.sidebar:
-    st.header("Instellingen
+    st.header("Instellingen")
+
